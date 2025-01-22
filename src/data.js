@@ -8,7 +8,7 @@ const alphabets = [
     },
     examples: [
       {
-        img: '/src/images/chicken.png',
+        img: 'images/chicken.png',
         title: 'Ayam',
       },
     ],
